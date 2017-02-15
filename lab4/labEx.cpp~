@@ -21,7 +21,7 @@ cout<<"**part 2**"<<endl;
 	cout<<"Today's temperature is "<< ct <<" Celsius"<<endl;
 
 cout<<"**part 3**"<<endl;
-	int a,b,c,d; //a=numer1,c=numer2,b=denom1,d=denom2
+	int a,b,c,d;
 	char dummychar;
 	cout<<"Enter first fraction: ";
 	cin>>a>>dummychar>>c;

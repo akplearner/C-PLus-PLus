@@ -1,548 +1,3 @@
-ls -l; scp ctse@venus:~/.ssh/authorized_keys . ; mv authorized_keys .ssh
-exit
-ls
-?
-help
-dir
-ls()
-pwd
-ls
-ls -a
-ls -al
-ls -l
-pwd
-dir
-ls -a
-cd ..
-ls -a
-ls -l
-cd apena4466
-ls
-ls -l
-i
-ls
-pwd
-ls
-mkdir test
-ls
-ls -al
-ifconfig
-traceroute google.com
-vi
-ls
-mkdir hw
-ls
-cdhw
-cd hw
-ls
-pwd
-clear
-//Pena,Anthony
-//CSC 11A homework 1
-ftp
-?ftp
-help ftp
-info ftp
-ls
-mkdir hw
-rm hw
-rm -r hw
-ls
-mkdir hw
-ls
-cd hw
-ls
-LS
-ls
- ls
-cd hw
-cd
-ls
-list
-ls -l
-ls -a
-touch testfile.cpp
-ls
-cp
-cp --help
-cp testfile.cpp hello.cpp
-ls
-ls -a
-ls -l
-rm testfile.cpp
-ls -lrt
-ls
-mv test hw 
-ls
-mv -r hw hw1
-mv hello.cpp hi.cpp
-ls
-mv hw/ hw1
-ls
-cd hw1
-ls
-mv test cd
-ls
-c
-cd
-ls
-cd hw1
-ls
-mv cd test
-ls
-mv test/
-i
-iv
-vi hello
-vi test.cpp
-ls
-pwd
-vi test.cpp
-ls
-rm test.cpp
-ls
-cd
-ls
-vi HelloWorld.cpp
-ls
-rm hi.cpp
-ls
-vi HelloWorld.cpp
-ls
-g++ HelloWorld.cpp 
-ls
-vi HelloWorld.cpp
-ls
-g++ HelloWorld.cpp 
-vi HelloWorld.cpp
-ls
-g++ HelloWorld.cpp 
-ls
-./a.out
-ls
-cat HelloWorld.cpp
-./a.out 
-iv test.cpp
-vi prog.cpp
-ls
-g++ prog.cpp -o b.out
-g++ prog.cpp -o b
-g++ prog.cpp 
-ls
-g++ prog.cpp
-vi prog.cpp
-ls
-g++ prog.cpp
-ls
-cat prog.cpp
-clear
-ls
-echo 'hello'
-echo "hello"
-exiy
-exit
-ls
-jobs
-pwd
-finger
-who
-ed 
-ls
-cat a.out
-VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT1021;2cVT102VT102VT102VT102VT102VT102VT102VT102VT102VT1021;2c
-ls
-clear
-ls
-echo $0
-man echo
-ls
-l
-ln
-echo 'Hello World'
-echo -n 'Hello World'
-ruby -v
-ls -lah
-banner -w25 "hello World"
-banner -w50 "hello World"
-echo -n 'Hello World';echo "hello"
-echo $SHELL
-echo $0
-tcsh
-man echo
-man
-1
-apropos 
-echo
- 
-echo apropos
-apropos echo
-man -k echo
-whatis echo
-las
-ls
-vi
-ls
-cat prog.cpp
-vi prog.cpp
-lsls
-ls
-g++ prog.cpp b.out
-vi prog.cpp
-ls
-g++ prog.cpp -o prog
-cat prog.cpp
-g++ prog.cpp -o prog
-ls
-vi prog.cpp
-ls
-g++ prog.cpp -o prog
-vi prog.cpp
-ls
-g++ prog.cpp -o prog
-vi prog.cpp
-ls
-g++ prog.cpp -o prog
-./a.out
-ls
-vi prog.cpp
-ls
-g++ prog.cpp -o prog
-ls
-./prog
-ls
-./prog
-vi prog.cpp
-g++ prog.cpp -o prog.out
-ls
-./prog.out
-ls
-rm prog
-ls
-rmprog.cpp
-rm prog.cpp
-ls
-rm prog.cpp~
-lsw
-ls
-cat prog.out
-VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT102VT1021;2c
-clear
-ls
-vi prog2
-ls
-mv prog2 prog2.cpp
-ls
-g++ prog2.cpp -o prog2.out
-vi prog2.cpp
-g++ prog2.cpp -o prog2.out
-ls
-./prog2.out
-cat prog2.cpp
-ls
-cat HelloWorld.cpp~
-cat HelloWorld.cpp
-ls
-rm HelloWorld.cpp~
-ls
-mkdir lab
-ls
-cd lab
-ls
-vi Lab1
-ls
-g++ lab1 -o triangle1
-ls
-mv lab1 lab1.cpp
-ls
-g++ Lab1 -o triangle1
-mv Lab1 triangle.cpp
-ls
-g++ triangle.cpp -o triangle.exe
-ls
-./triangle.exe
-ls
-cd lab
-ls
-cd ..
-ls
-mv lab lab1
-ls
-mv lab1 lab2
-ls
-mkdir lab1
-ls
-mv a.out lab1
-ls
-mv prog2.cpp  lab1
-mv prog2.cpp~  lab1
-mv prog2.out  lab1
-mv prog.out  lab1
-ls
-        
-dir
-ls lab2
-mkdir lab3
-ls
-cd lab3
-cd ..
-ls
-cd lab2
-ls
-cat triangle.cpp
-cd 
-ls
-cd lab3
-vi name&num
-vi asking
-ls
-mv asking asking.out
-ls
-vi asking.out
-ls
-g++ asking.out -o asking.out
-g++ asking.out
-ls
-g++ asking.out~ -o asking.exe
-ls
-cat asking.out
-cat asking.out~
-vi aking.out
-ls
-vi asking.out~
-ls
-cat asking.out~~
-cat asking.out~
-mv
-mv asking.out~ asking.out
-ls
-rm asking.out~~
-ls
-cat asking.out
-g++ asking.out 
-mv  asking.out asking.cpp
-ls
-cat asking.cpp
-g++  asking.cpp -o asking
-g++  asking.cpp 
-ls
-vi asking.cpp
-ls
-cat asking.cpp
-cat asking.cpp~
-g++ asking.cpp -o asking
-vi asking.cpp
-ls
-g++ asking.cpp -o asking
-ls
-./asking
-cat asking.cpp
-ls
-mv asking.cpp~ variables.cpp
-vi variables.cpp
-ls
-g++ variables.cpp
-ls
-cd lab2
-ls
-./triangle.exe
-cat triangle.cpp
-ls
-more HelloWorld.cpp
-cat HelloWorld.cpp
-less HelloWorld.cpp
-ls
-clear
-ls
-less -m HellowWorld.cpp
-less -m HelloWorld.cpp
-ls
-less -n HelloWorld.cpp
-less -M HelloWorld.cpp
-less -N HelloWorld.cpp
-head HelloWorld.cpp
-tail HelloWorld.cpp
-tail -f HelloWorld.cpp
-ls
-cd hw1
-ls
-mv test ../
-ls
-cd ..
-ls
-cd test
-ls
-cd ..
-ls
-mv test hw1
-ls
-cd hw1
-ls
-mv -i test hw1
-ls
-mv hw1 test
-mkdir test2
-ls
-mv -i test test2
-ls
-cd test2
-ls
-mv test ..
-ls 
-cd ..
-ls
-touch file1
-touch file2
-ls
-mv file1 file2
-ls
-touch file1
-ls
-clear
-ls
-mv -i file1 file2 
-ls
-mv -i file1 file2 
-ls
-touch test2/
-cd test2
-ls
-cd ..
-ls
-ls
-cd hw1
-ls
-less test
-ld
-ls
-cd ..
-ks
-ls
-cd lab2
-ls
-less triangle.cpp
-./triangle.exe
-ls
-cd lab3
-ls'
-'
-ls
-cd excercises
-ls
-less e1.cpp
-ls
-exit
-cd hw1
-ls
-cat file2
-cd ..
-ls
-cd lab 2
-cd lab2
-ls
-less -N trangle.cpp
-less -N triangle.cpp
-ls
-cd ..
-ls
-ls lab4
-ls lab3
-ls lab1
-cd lab1
-clear
-ls
-less -N prog2.cpp
-ls
-cd ..5
-cd
-ls5
-mkdir practice
-ls
-
-rm -r practice
-ls
-clear
-ls
-mkdir apractice
-ls
-less HelloWorld
-less HelloWorld.cpp
-ls
-ls -l
-ls -lrt
-cd lab3
-ls
-cat lab3q1.cpp
-ls
-mkdir lab5
-cd lab5
-ls
-cd ..
-ls
-mv hw1 hw0
-ls
-rm lab5
-rm -r lab5
-ls
-mkdir hw1
-ls
-cd hw1
-ls
-vi hw1.cpp
-ls
-vi hw1.cpp
-ls
-g++ hw1.cpp
-ls
-./a.out
-cat hw1.cpp
-ls
-mkdir hw
-]ls
-ls
-cd hw0
-ls
-cat file2
-cd test
-ls
-cd ..
-cd test2
-ls
-cd
-ls
-rm hw0
-rm -r hw0
-ls
-cd hw1
-ls
-cat hw1
-cat hw1.cpp
-cd
-ls
-cd hw1
-ls
-./a.out
-pwd
-mv hw1/hw1.cpp hw/
-mv hw1/hw1.cpp hw/hw1.cpp
-mv hw1.cpp hw
-ls
-mv hw hw1.cpp 
-ls
-mv hw1.cpp ..
-ls
-cd
-ls
-mv hw1.cpp hw
-ls
-cd hw
-ls
-cd ..
-ls
-rm hw1
-rm -r hw1
-ls
-ls lab1
-clear
 ls
 cd hw
 ls
@@ -992,4 +447,554 @@ git
 git init 
 git log
 git status
+ls
+ls -lart
+git log
+git status
+ls
+git add -A
+git comit -m "v.01"
+git commit -m "v.01"
+git config --global user.name "akplearner"
+git config --global user.email akplearner@gmail.com
+git config -l
+git init
+git status
+git add -A
+git remote -v
+git remote origin github.com/akplearner
+git remote origin https://github.com/akplearner
+git remmote origin https://github.com/akplearner
+git remote -v
+git remote add origin https://github.com/akplearner
+git remote -v
+git remote add origin https://github.com/akplearner/C-.git
+git remote rm origin
+git remote add origin https://github.com/akplearner/C-.git
+git remote -v
+git push -u origin master
+ls
+ls -la
+ls
+git init
+git log
+git add 
+git add book
+git add hw lab2 
+git add lab3 lab4 practice 
+git commit -m "v.01"
+git remote -v
+git remote rm origin
+git remote -v
+git remote add origin https://github.com/akplearner/C-PLus-PLus.git
+git fetch origin
+git push origin
+git push origin master
+git status
+git add 
+git log
+clear
+git status
+ls
+mkdir test
+ls
+git rm test
+git add test 
+git rm test
+git rm -r test
+git rm test
+git rm -r test
+touch project.md
+git rm project.md
+git add  project.md
+git rm project.md
+git rm -f project.md
+ls
+rm test
+rm -r test
+ls
+git status
+git log
+clear
+ls
+mkdir test
+git add test
+git commit
+lz
+ls
+git add test
+git commit 
+git commit -a
+ls
+git add .a
+git add -a
+git add -v
+git add -v .
+git add -v
+git add 
+git add --help
+clear
+ls
+git add .
+git branch
+git branch -v
+git reset
+ls
+git add book  hw  lab2  lab3  lab4  practice  test
+git commit --help
+ls
+edit f1
+edit test
+git reset --help
+git checkout
+ls
+git commit --help
+clear
+ls
+git commit --amend
+LS
+ls
+git rm --help
+ls
+ls -la
+ .gitconfig
+ls -la
+cat .history
+cat .config
+cat .bash_history
+cler
+clear
+ls
+rm -r test
+cd book
+ls
+clear
+vi concvert3.cpp
+ls
+g++ concvert3.cpp -o convert3.out
+vi concvert3.cpp
+g++ concvert3.cpp -o convert3.out
+./convert3.out
+vi concvert3.cpp
+g++ concvert3.cpp -o convert3.out
+vi concvert3.cpp
+g++ concvert3.cpp -o convert3.out
+clear
+ls
+cd book
+ls
+./convert.out
+./covert3.out
+./convert3.out
+ls
+cd book
+ls -lart
+clear
+ls -l
+vi square.cpp
+ls
+g++ square.cpp -o square.out
+./square.out
+clear
+ls
+cd book
+ls
+ls -l
+vi even1.cpp
+ls
+g++ even1.cpp -o even1.out
+vi even1.cpp
+ls
+g++ even1.cpp -o even1.out
+./even1.out
+clear
+ls
+ls -l
+vi even1.cpp
+g++ even1.cpp -o even1.out
+ls
+ls -l
+clear
+ls -l
+vi event2.cpp
+ls
+mv event2.cpp even2.cpp
+g++ even2.cpp
+ls -l
+mv a.out even2.out
+ls -l
+cat even2.cpp
+./even2.out
+clear
+ls
+clear
+ls
+clear
+ls -l
+cat even1.cpp even2.cpp
+vi count1.cpp
+ls -l
+g++ count1.cpp -o count1.out
+./count1.out 
+clear
+ls -l
+vi count2.cpp
+g++ count1.cpp -o count2.out
+./count2.out
+clear
+ls -l
+ls
+clear
+git
+git show
+git init
+git diff
+git fetch origin
+git fetch
+branch
+ls
+clear
+ls
+ls -l
+git
+git init
+git add -v
+git add 
+clear
+ls
+pwd
+ls
+vi range.cpp
+ls
+g++ range.cpp -o range.out
+vi range.cpp
+g++ range.cpp -o range.out
+vi range.cpp
+g++ range.cpp -o range.out
+vi range.cpp
+g++ range.cpp -o range.out
+./range.out
+ls
+clear
+ls -l
+ls -lart
+ls -lrt
+clear
+ls -lrt
+ls -al
+mkdir chapt2
+clear
+ls -la
+mv . chapt2
+rm chapt2
+rm -r chapt2
+cd ..
+ls
+mkdir chapt2
+cd book
+ls
+mv . ../chapt2
+mv -a ../chapt2
+mv --help
+ls
+cd ..
+ls
+mv book/* chapt2
+ls
+ls book
+ls chapt2
+clear
+ls
+mv chapt2 book
+ls
+ls book 
+clear
+cd book
+ls
+cd chapt2
+ls
+cd ..
+ls
+clear
+cd..
+cd
+ls
+git show 
+git show 88fa60e66fadc68a07eb376aae598ccc7dd847f3
+git diff --git
+git diff-tree
+git diff-tree --no-commit-id --name-only -r
+git show --pretty="" --name-only
+ls -a
+
+clear
+ls -a
+git show --pretty="" --name-only
+ git show --pretty="" --name-only 8a11483d91d11979ec844f1291b3bc760fedd54a
+git diff --cached
+git ls-files --others --exclude-standard
+git ls-files --others 
+git whatchanged --diff-filter=A
+git whatchanged 
+ls
+git whatchanged 
+git init
+git add -a
+git add -v
+clear
+ls
+git add book
+git add hw
+git add lab2
+git add lab3
+git add lab4
+git add practice
+git commit -m "v.02"
+git push
+git push github
+git push
+git push -v
+git log
+clear
+git log
+git branch
+git remote -v
+git push origin master
+git init
+git add book
+git add hw
+git add lab2
+git add lab3
+git add lab4
+git add practice
+git commit -m "v.02"
+git commit -v
+cat .gitconfig
+clear
+cat .gitconfig
+git log
+clear
+git commit -m "v.02"
+git push origin master
+git pull origin master
+ls
+git fetch  origin master
+git push origin master
+cd book
+ls
+cd chapt2
+ls
+ls -lart
+cd ..
+ls
+mv chapt2 chapt1
+mkdir chapt2
+ls
+cd chapt1
+clear
+ls
+clear
+ls -lart
+pwd
+mv range.out /home/sp17/111/pean4466/book/chapt2
+mv range.cpp /home/sp17/111/pean4466/book/chapt2
+mv range.cpp~ /home/sp17/111/pean4466/book/chapt2
+mv count1.cpp /home/sp17/111/pean4466/book/chapt2
+mv count1.out /home/sp17/111/pean4466/book/chapt2
+mv count2.out /home/sp17/111/pean4466/book/chapt2
+mv count2.cpp /home/sp17/111/pean4466/book/chapt2
+clear
+ls -lart
+cd ..
+ls
+cd chapt2
+ls
+clear
+ls -lart
+vi prime1.cpp
+ls -lrt
+g++ prime1.cpp -o prime.out
+vi prime1.cpp
+g++ prime1.cpp -o prime.out
+vi prime1.cpp
+clear
+g++ prime1.cpp -o prime.out
+vi prime1.cpp
+g++ prime1.cpp -o prime.out
+clear
+g++ prime1.cpp -o prime.out
+vi prime1.cpp
+g++ prime1.cpp -o prime.out
+ls
+mv prime.out prime1.out 
+clear
+ls
+clear
+ls -lrt
+./prime1.out
+clear
+./prime1.out
+lear
+ls -lrt
+clear
+less -N prime1.cpp
+./prime1.out
+clear
+ls -lrt
+cp prime1.cpp prime2.cpp
+vi prime2.cpp
+g++ prime2.cpp -o prime2.out
+./prime2.out
+ls
+cd book
+ls
+chapt2
+cd chapt2
+clear
+ls
+clear
+ls -l
+cat rangeout
+vi range.cpp
+clear
+ls
+cd ..
+ls
+cd 
+cd ..
+clear
+ls
+;s
+ls
+cd
+ls
+cd..
+clear
+ls
+cd lab2
+ls
+cd ..
+cd lab3
+ls
+cd exercise
+ls
+cd ..
+ls
+cd lesson
+ls
+cd ..
+ls
+vi ex1.cpp
+ls
+g++ ex1.cpp -o ex1.out
+./ex1.out
+clear
+ls
+vi ex2.cpp
+;s
+ls
+g++ ex2.cpp -o ex2.out
+./ex2.out
+clear
+vi ex2.cpp
+g++ ex2.cpp -o ex2.out
+./ex2.out
+clear
+vi ex3.cpp
+ls
+clear
+ls -l
+ls 
+g++ ex3.cpp -o ex3.out
+vi ex3.cpp
+g++ ex3.cpp -o ex3.out
+./ex3.out
+clear
+ls 
+cd ..
+ls
+cd lab4
+clear
+ls
+cat LabEx.cpp
+ls
+cat labEx.cpp
+cat LabEx.cpp
+ls
+clear
+ls
+clear
+ls -l
+cat --help
+cat -a
+cat -A
+clear
+ls -lrt
+clear
+ls -l
+cat labEx.cpp LabEx.cpp
+clear
+ls
+cat ex1.cpp
+clear
+ls
+vi labEx.cpp
+ls
+cat labEx.xpp
+cat labEx.cpp
+clear
+ls -l
+cat LABEx.cpp
+cat LabEx.cpp
+clear
+ls
+mv LabEx.cpp temp.cpp
+mv LabEx temp
+ls -l
+g++ labEx.cpp -o labEx.out
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
+./labEx.out
+clear
+ls l
+ls -l
+rm labEx.cpp~
+ls -l
+rm LabEx.cpp~
+clear
+ls -l
+vi labEx.cpp
+clear
+ls -l
+g++ labEx.cpp -o labEx.out
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
+./labEx.out
+clear
+vi labEx.cpp
+clear
+ls -l
+g++ labEx.cpp -o labEx.out
+./labEx.out
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
+./labEx.out
+clear
+./labEx.out
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
+./labEx.out
+clear
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
+./labEx.out
+clear
+ls -l
+ls
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
+vi labEx.cpp
+g++ labEx.cpp -o labEx.out
 ls
