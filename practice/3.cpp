@@ -1,0 +1,42 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+	cout<<"Part1 a"<<endl;
+/*	int n=0;	
+	while(n<100){
+		n++;
+		cout<<n;
+		cout<<endl;
+	}
+*/
+
+	cout<<"Part1 b"<<endl;
+/*
+	int n=0,line=0; 
+	while(n<100){
+		n=n+1;
+		cout<<n;
+		cout<<" ";
+		
+		line++;
+		if(line==10){
+			cout<<endl;
+			line=0;
+		}
+	}
+*/
+	cout<<"Part1 C"<<endl;
+	int n=0,line=0;
+	while(n<100){
+		n=n+2;
+		cout<<n<<" ";
+		line++;
+		if(line==10){	
+			cout<<endl;
+			line=0;
+		}
+	}	
+	return 0;	
+}

@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	//part 1
+	int i1;
+	cout<<"Enter an integer number: ";
+	cin>>i1;
+	cout<<"you number is: "<< i1<<endl;
+	if((i1%4)==0){
+		cout<<"The number "<<i1<<" is multiple of 4"<<endl;
+	}else{
+		cout<<"The number "<<i1<<" is not a multiple of 4"<<endl;
+	}
+	
+	//part 2
+	double d1,d2;
+	cout<<"Enter a double variable number: ";
+	cin>>d1;
+	cout<<"Enter a double variable number: ";
+	cin>>d2;
+	if (d1>d2){
+		cout<<d1<<" number is greater then "<<d2<<endl;
+	}else if(d1<d2) {
+		cout<<d1<<" number is smaller then "<<d2<<endl;
+	}
+	else if(d1==d2){
+		cout<<"These two numbers are equal."<<endl;
+		}
+
+	return 0;
+}

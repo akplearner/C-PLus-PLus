@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int addThrees(int n){
+	if(n==0) return 0;
+	return 100*addThrees(n/10)+10*(n%10)+3;
+}
+int main(){
+	cout<<addThrees(3)<<endl;
+	cout<<addThrees(1313)<<endl;
+	cout<<addthrees(777)<<endl;
+	return 0;
+}

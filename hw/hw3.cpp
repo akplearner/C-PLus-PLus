@@ -1,0 +1,41 @@
+// pena, Anthony
+// // CS111 11A (11E or 22A) Homework 3
+
+#include<iostream>
+using namespace std;
+
+int main(){
+	//part A
+	int n,count_pos=0,count_neg=0,total=0,count;
+	double ave;
+
+	do{
+		cout<<"Enter an integer, the input ends if it is 0: ";
+		cin>>n;
+		if(n>=0){
+			count_pos++;
+		}if(n<=0){
+			count_neg++;
+		}
+		count++;
+
+	}while(n!=0);
+	total=count_pos-count_neg;
+	ave=total/count;
+	if(n==0){
+	cout<<"The number of positives is "<<count_pos<<"."<<endl;
+	cout<<"The number of negatives is "<<count_neg<<"."<<endl;
+	cout<<"The "<<total<<"."<<endl;
+	cout<<"The average is "<<ave<<"."<<endl;
+	return 0;
+	}
+/*	part B
+	do{
+	cout<<"Enter an odd integer between 9 and 5 (inclusive): "<<endl;
+	cin>>num;
+						       }
+	while(num<=9 || numb>=15)
+*/
+	return 0;
+}
+

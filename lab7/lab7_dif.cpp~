@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	int n,temp,sum;
+	cout<<"Please input a 4-digit positive integer: ";
+	cin>>n;
+	if(n>=1000 || n<=9999){
+		temp=n;
+		while(temp>0){
+
+			sum=sum+(temp%10);
+			temp=temp/10;
+		
+		}
+		cout<<"The sum of all digits in "<<n<<" is "<<sum;
+	}else{
+		cout<<"Wrong input!!"<<endl;
+	}
+
+	cout<<"Part 2";
+	n=1;
+	while((n*n)>11000){
+		n++;
+		cout<<n<<endl;
+	}
+	cout<<n<<"This is the highes n before n square is greater then 11000"<<endl;
+	retun 0;
+}

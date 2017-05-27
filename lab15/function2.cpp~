@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int subtraction(int a,int b){
+	int r;
+	r=a-b;
+	return r;
+}
+
+int main(){
+	int x=5,y=3,z;
+	z=subtraction(7,2);
+	cout<<"The second result is "<<subtraction(7,2)<<endl;
+	cout<<"The thrid resutl is "<<subtraction (x,y)<<endl;
+	z=4+subtraciton(x,y);
+	cout<<"The fourth resutl is "<<z<<endl;
+	return 0;
+}
